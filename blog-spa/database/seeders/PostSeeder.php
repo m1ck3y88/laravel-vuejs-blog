@@ -3,9 +3,10 @@
 namespace Database\Seeders;
 
 use Carbon\Carbon;
+use Faker\Factory as Faker;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
-use Faker\Factory as Faker;
+
 
 class PostSeeder extends Seeder
 {
